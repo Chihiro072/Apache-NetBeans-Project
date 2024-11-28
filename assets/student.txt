@@ -1,0 +1,17 @@
+ST1,Mike Tyson,12-23-2004,Canadian,Female,0812323214,911 Pine,Math,08812754738
+ST2,Steve Johnson,09-08-2002,American,Male,0876543210,456 Elm,Computer Science,0987654321
+ST3,Sarah Li,03-15-2000,Indonesian,Female,0123456777,001 Oak,Business,0123456999
+ST4,Somantha Liza,11-01-2001,American,Male,081111000,999 Pine,Computer Science,08836643232
+ST5,Jj,05-03-2002,Singaporean,Male,0881227632,101 Raze Town,Computer Science,0881226162
+ST6,Bren Oxy,10-20-2004,American,Male,08827378123,943 Jude,Computer Science,08921736412
+ST7,Evelyn,11-03-2001,Indonesian,Female,08123123123,105 Sumbawa,Business,08827127781
+ST8,Wandarer Batallion,10-10-2001,Italian,Male,08217218821,109 Teyvat,Computer Science,0871441414
+ST9,Marco Polo,01-01-2000,Italian,Male,0812345678,123 Main Street,Business,0887654321
+ST10,Lisa Wong,03-15-2002,Chinese,Female,0876543210,456 Elm Street,Computer Science,0987654321
+ST11,James Smith,06-30-1998,American,Male,0123456789,789 Oak Avenue,Math,0123456789
+ST12,Sophia Johnson,09-20-2001,Canadian,Female,0987654321,321 Maple Drive,Math,9876543210
+ST13,Imperial Hal,09-06-2000,American,Male,0812389131,555 Victoria,Business,08821378131
+ST14,Ford Runner,05-01-2002,German,Male,0812831374,721 Gerdensy,Business,0882137831
+ST15,Evelyn,06-03-2002,Indonesian,Female,08123612736,Sudirman 1,Business,08812378731
+ST16,Jeo Boden,02-14-2001,American,Male,081213546,Fil 101,Math,0880484889
+ST17,Donald Trump,07-04-2002,American,Male,601215458,Fil 202,Math,6015151545

@@ -1,0 +1,7 @@
+TC1,Lecturer,Marjon Swiz,05-12-1990,Chinese,Female,012345678,111 Jude,Bachelor,Xian Jiaotong Univerisity,Asia Pacific University,Math,Supervisor,-
+TC2,Project Manager,John Do,11-30-1975,Australian,Male,0456789123,321 Maple,Diploma,University of Sydney,University of Melbourne,Computer Science,Second Marker,-
+TC3,Lecturer,Maria He,05-03-2024,Chinese,Female,0812732613,109 Nan Jing,Master,Fudan University,Fudan University,Business,Second Marker,-
+TC4,Project Manager,Chang Xing,02-12-2001,Malaysian,Male,0812838293,182 Melacca,Bachelor,Harvard University,Harvard University,Math,Second Marker,TC5
+TC5,Lecturer,Keng Kiao,11-09-2003,Chinese,Male,082111111,778 Bukit Jalil,Diploma,Fudan Univiersity,Asia Pacific University,Business,Supervisor,TC4
+TC6,Lecturer,Ibu Dosen,10-31-2003,Indonesian,Male,082183918312,105 Bali,Diploma,Petra University,Petra University,Business,Second Marker,-
+TC7,Lecturer,Yu Rui,09-06-1995,Malaysian,Male,0821371783,109 Bukit Bintang,Bachelor,Malaya University,Taylor University,Computer Science,Supervisor,TC2

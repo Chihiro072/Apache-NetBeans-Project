@@ -1,0 +1,17 @@
+ST1,Mike Tyson,Internship,TC1,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-06-02,Pending,1,-,-,-,-,Math
+ST2,Alex Johnson,Investigation Reports,TC7,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-05-12,Completed,0,2024-05-19,A+,Good Job.,-,Computer Science
+ST3,Sarah Lee,CP2,TC5,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-04-30,Completed,0,2024-05-07,B+,Try to explain in details.,-,Business
+ST4,Somantha Lisa,FYP,TC7,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-05-20,Scheduled,0,2024-06-01,-,-,-,Computer Science
+ST5,Jj,CP1,TC7,-,-,Pending,0,-,A+,-,-,Computer Science
+ST6,Bren Oxy,Internship,TC7,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-05-27,Completed,0,2024-06-10,A+,Well done.,-,Computer Science
+ST7,Evelyn,RMCP,TC5,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-05-18,Pending,1,-,-,-,-,Business
+ST8,Wandarer Batallion,CP2,TC7,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-05-21,Pending,1,-,-,-,-,Computer Science
+ST9,Marco Polo,Investigation Reports,TC5,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-05-31,Scheduled,0,2024-06-11,-,-,-,Business
+ST10,Lisa Wong,RMCP,TC7,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-06-01,Pending,0,-,-,-,-,Computer Science
+ST11,James Smith,CP1,TC1,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-05-31,Scheduled,0,2024-06-12,-,-,-,Math
+ST12,Sophia Johnson,CP1,TC1,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-05-29,Scheduled,0,2024-06-08,-,-,-,Math
+ST13,Imperial Hal,Internship,TC5,C:\Users\Admin\OneDrive\Documents\Desktop\Exercise\OODJ\OODJ Assignment\Assignment\sample-research-report.pdf,2024-04-25,Completed,0,2024-05-01,B,Please finish your report on time.,-,Business
+ST14,Ford Runner,-,TC5,-,-,Pending,0,-,-,-,-,Business
+ST15,Evelyn,-,-,-,-,Pending,0,-,-,-,-,Business
+ST16,Jeo Boden,-,-,-,-,Pending,0,-,-,-,-,Math
+ST17,Donald Trump,-,-,-,-,Pending,0,-,-,-,-,Math

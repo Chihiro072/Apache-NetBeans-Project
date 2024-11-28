@@ -1,0 +1,26 @@
+AD1,poggers,woggers,Admin
+1,1,1,Admin
+TC1,marjon,123,Lecturer
+ST1,tenz,123,Student
+ST2,alex,456,Student
+ST3,sarah,789,Student
+TC2,john,321,Project Manager
+ST4,s0m,s0mcs,Student
+ST5,jinggg,123123,Student
+ST6,oxygen,c123,Student
+ST7,evee,eve,Student
+TC3,maria,123,Lecturer
+ST8,scaramouche,sekarat,Student
+TC4,abcdef,123,Project Manager
+TC5,ck123,123,Lecturer
+ST9,marco,123,Student
+ST10,lisa,456,Student
+ST11,james,789,Student
+ST12,sophia,321,Student
+ST13,hal,apex,Student
+TC6,budosen,1,Lecturer
+ST14,testi,123,Student
+TC7,yurice,yurui,Lecturer
+ST15,tester,123,Student
+ST16,joever,123,Student
+ST17,trump,123,Student
